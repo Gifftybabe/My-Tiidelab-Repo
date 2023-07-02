@@ -24,10 +24,10 @@ To stage all changes in a specific directory:
   
    Here's the basic syntax for the git push command:
   
-* git push <remote> <branch>
+* git push [remote] [branch]
 
-The <remote> refers to the name of the remote repository where we want to push our commits. This is usually the name of the remote we cloned the repository from, such as origin.
+The 'remote' refers to the name of the remote repository where we want to push our commits. This is usually the name of the remote we cloned the repository from, such as origin.
 
-The <branch> specifies the branch we want to push our commits to. 
+The 'branch' specifies the branch we want to push our commits to. 
 
 
