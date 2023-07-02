@@ -1,7 +1,7 @@
-*GIT command for staging a change:*
-The ${bold}`git add`${normal} command is used in Git to stage changes and prepare them for a commit. When we make changes to our files in a Git repository, those changes are initially considered as "unstaged" or "untracked."
+**GIT command for staging a change:**
+The ${`git add`} command is used in Git to stage changes and prepare them for a commit. When we make changes to our files in a Git repository, those changes are initially considered as "unstaged" or "untracked."
 
-By using ${bold}`git add`, ${normal} we specify which changes or files we want to include in the next commit. It allows us to selectively stage specific files or changes instead of committing all the modifications at once.
+By using ${`git add`,} we specify which changes or files we want to include in the next commit. It allows us to selectively stage specific files or changes instead of committing all the modifications at once.
 
 1- To stage a specific file:
 git add filename.txt
