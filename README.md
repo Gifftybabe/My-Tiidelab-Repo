@@ -19,9 +19,13 @@ To stage all changes in a specific directory:
   
 # GIT command for pushing committed change
 * git push
-  After we have committed our changes using git commit, the git push command is used to upload those commits to a remote repository, typically hosted on a platform like GitHub, GitLab, or Bitbucket.
-  ** Here's the basic syntax for the git push command:
-*git push <remote> <branch>
+  
+    After we have committed our changes using git commit, the git push command is used to upload those commits to a remote repository, typically hosted on a platform like GitHub, GitLab, or Bitbucket.
+  
+   Here's the basic syntax for the git push command:
+  
+* git push <remote> <branch>
+
 The <remote> refers to the name of the remote repository where we want to push our commits. This is usually the name of the remote we cloned the repository from, such as origin.
 
 The <branch> specifies the branch we want to push our commits to. 
